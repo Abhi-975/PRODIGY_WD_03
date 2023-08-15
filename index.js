@@ -1,5 +1,5 @@
 // for playing background music
-let music = new Audio("audios/High-tide.mp3");
+let music = new Audio("audios/High-Tide.mp3");
 music.play();
 music.volume=0.7;
 
